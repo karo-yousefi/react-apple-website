@@ -1,10 +1,10 @@
 # A clone of Apple iPhone website.
 
 + Technologies used in this project:
-> Vite
-> React
-> TailwindCSS
-> GSAP
-> THREE.JS
+> Vite <br>
+> React <br>
+> TailwindCSS <br>
+> GSAP <br>
+> THREE.JS <br>
 
-+ You can see a live version of the site [here]()
++ You can see a live version of the site [here](https://karo-yousefi.github.io/react-apple-website/)

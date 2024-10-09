@@ -3,10 +3,11 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://karo-yousefi.github.io/react-apple-website",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
+    "deploy": "gh-pages -d dist1",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
